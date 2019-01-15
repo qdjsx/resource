@@ -1,0 +1,1 @@
+alter table `slot` add column `weight` int(10) NOT NULL DEFAULT '0' comment '权重';
